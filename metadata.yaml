@@ -21,6 +21,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Michelet
     - http://fr.wikipedia.org/wiki/Jules_Michelet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44617#M-moires-De-Luther--crits-Par-Lui-M-metraduits-et-mis-en-ordre-par-M.-Michelet
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2014-01-07'
 gutenberg_type: Text
